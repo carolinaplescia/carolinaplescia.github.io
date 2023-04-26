@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Welcome! I am Associate Professor in the Department of Government at the University of Vienna"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,23 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+My research, described in more detail here, looks at what influences citizens' preferences for election outcomes, electoral accountability and voters' satisfaction with electoral institutions. In a project funded by the [Austrian Science Fund](https://www.fwf.ac.at/en/) I study how citizens respond to the compromises parties need to make to form governments and pass legislation in parliament. In 2021, I started an ERC Starting Grant for the project [DeVOTE](https://www.votemeanings.eu) that aims to develop and apply a new interdisciplinary theoretical and methodological approach to study what ‘voting’ means for ordinary citizens across the globe (planned project duration: January 2021 - December 2025). I am also interested in new advances in quantitative methods especially in the areas of survey experiments, and text analysis, with a focus on the role of data in democratic processes.
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+For my work I received several awards including the [ECPR Jean Blondel PhD prize](https://ecpr.eu/Prizes/PrizeWinners.aspx?PrizeID=4) in 2014, [the Gordon Smith and Vincent Wright Memorial Prize](https://www.tandfonline.com/doi/abs/10.1080/01402382.2017.1285155) in 2016 and an honorable mention for the [2022 GESIS Klingemann Prize](https://cses.org/2022/11/10/klingemann-prize-honorable-mention/). I am part of the [Austrian National Election Study](https://autnes.at) and the [Austrian Academy of Sciences](https://www.oeaw.ac.at/en/m/plescia-carolina). 
+
+I earned my Ph.D in Political Science from Trinity College Dublin, Ireland in November 2013 under the supervision of Professors Michael Marsh and Kenneth Benoit. My academic work has been published or is forthcoming in Comparative Political Studies, European Journal of Political Research, Political Psychology, Political Science Research and Methods, and West European Politics, among other outlets. I have teaching experience in both comparative politics and quantitative methodology.
