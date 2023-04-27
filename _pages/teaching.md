@@ -3,38 +3,47 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-Research plays a central role in my teaching as students improve their
-analytical skills and master the tools of data analysis through hands-on
-experience. I have taught undergraduate courses on political violence and
-statistical methodology. While at UNC, I taught the graduate statistics lab for
-Advanced Topics in Political Data Science, where my work was recognized by the
-Political Science Department's Earle Wallace Award for Graduate Student
-Teaching. I also served as a teaching assistant for courses in international
-relations and American politics at UNC, in addition to the ICPSR Summer Program
-where I was a teaching assistant for a course on Bayesian modeling in the social
-sciences. I am also a
-[certified instructor](https://carpentries.org/instructors/#jayrobwilliams) with
-[The Carpentries](https://carpentries.org/), which develops evidence-based
-methods for teaching "essential data and computational skills for conducting
-efficient, open, and reproducible research."
+The overarching goal of my teaching is to develop students’ critical capacities and transferable skills
+that they could use in their lives and careers well beyond the subject taught.
+I support the process of inclusive and critical learning through a variety of teaching resources
+and strategies in particular: critical thinking, interactive teaching, listen to the learners and inclusive and positive environment.
+
+I have in the past attended several workshops and training events to formally and 
+informally strengthen my teaching abilities for instance I received the Diploma for teaching with the 
+Centre for Academic Practice and Student Learning (CAPSL) at Trinity College Dublin, Ireland.
+
+I am very happy to share syllabi and any other teaching material so feel free to contact me anytime!
+
+## University of Vienna
+- Digital Democracy (BA course; Winter 2020; Spring 2023)
+
+- Political Psychology (MA course; Spring 2023)
+
+- Research Design and Causal Methods (PhD course; Spring 2023)
+
+- Research Methods for the Social Sciences (MA course; Spring 2014; Spring 2015; Spring 2016; Spring 2017; Spring 2018; Spring 2021; Spring 2022; Spring 2023)
+
+- Bachelor Dissertation Seminar (BA course; Winter 2014; Winter 2015; Winter 2016; Winter 2017; Winter 2018; Spring 2023)
+
+- Comparative Politics (BA course; Winter 2019)
+
+- Representation and Public Opinion (BA course; Spring 2018; Winter 2019)
+
+- Democratic Theories and Public Opinion (MA course; Spring 2014; Spring 2017)
+
+- Introduction to R (open course; Spring 2016; Winter 2016; Srping 2015; Winter 2015)
 
 
-You can view my teaching portfolio [here](/files/pdf/teaching/Portfolio.pdf).
-You can find a selection of my teaching materials, including all of the labs
-from Advanced Topics in Political Data Science, [here](/teaching-materials).
+## University of Bologna
+- Statistics for the Social Sciences (MA course; Spring 2019)
 
-## Washington University in St. Louis
-- Pol Sci 3090: The Scientific Study of Civil War (Spring 2020)
-    - [Syllabus](/files/pdf/teaching/PS 3090 Syllabus.pdf)
-- Pol Sci 3171: International Conflict Management & Resolution (Fall 2019)
-    - [Syllabus](/files/pdf/teaching/PS 3171 Syllabus.pdf)
+## London School of Economics and Social Sciences
+- Applied Regression Analysis (2012 LSE Summer School) (with Kenneth Benoit)
 
-## The University of North Carolina at Chapel Hill
-- Poli 281: Quantitative Research in Political Science (Spring 2019)
-    - [Syllabus](/files/pdf/teaching/POLI 281 Syllabus.pdf)
-- Poli 891: Lab for Advanced Topics in Political Data Science (Fall 2017, Fall 2018)
-    - [Syllabus](/files/pdf/teaching/POLI 891 Syllabus.pdf)
+## Trinity College Dublin
+- Research Methods (BA level; Spring 2013)
 
-## ICPSR Summer Program
-- Introduction to Applied Bayesian Modeling (Summer 2017)
-    - [Syllabus](/files/pdf/teaching/bayes2017.pdf)
+- Introduction to International Relations (BA level; Winter 2012)
+
+- Introduction to Political Science (BA level; Winter 2009; Spring 2010)
+

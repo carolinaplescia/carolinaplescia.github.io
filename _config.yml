@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Carolina Plescia"
 title_separator          : "-"
 name                     : &name "Carolina Plescia"
-description              : &description "Postdoc in Political Science"
+description              : &description "Associate Professor"
 url                      : https://carolinaplescia.github.io.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "carolinaplescia/carolinaplescia.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 mastodon:
-  username               : "fosstodon.org/@jayrobw"
+  username               : 
 twitter:
   username               : 
 facebook:
@@ -79,7 +79,7 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : jayrobwilliams
+    code		 : carolinaplescia
 
 
 # Site Author
@@ -90,9 +90,9 @@ author:
   location         :
   employer         :
   pubmed           :
-  orcid            : "http://orcid.org/0000-0001-9259-3883"
-  googlescholar    : "https://scholar.google.com/citations?user=fiaPSmgAAAAJ"
-  email            : "rob.williams@wustl.edu"
+  orcid            : "https://orcid.org/0000-0002-9719-001X"
+  googlescholar    : "https://scholar.google.at/citations?user=XeKE5ZgAAAAJ&hl=en"
+  email            : "carolina.plescia@univie.ac.at"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -108,14 +108,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "jayrobwilliams"
-  mastodon         : "fosstodon.org/@jayrobw"
+  linkedin         :
+  mastodon         : 
   pinterest        :
   soundcloud       :
   stackoverflow    : #"https://stackoverflow.com/users/10912314/jayrobwilliams"
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : "@carolinaplescia"
   vine             :
   weibo            :
   xing             :
