@@ -8,8 +8,8 @@ header:
 ---
 
 My academic research falls into three main areas: 
-(1) understanding what influences citizens' preferences for and satisfaction with election outcomes,
-(2) examining the working of the mechanism of electoral accountability specifically during election campaigns, 
+(1) understanding citizens' preferences for and satisfaction with election outcomes,
+(2) examining electoral accountability specifically during election campaigns, 
 and (3) investigating how citizens perceive electoral institutions in both established democracies and more fragile settings.
 
 I am currently leading two third-party founded projects. 
