@@ -22,11 +22,11 @@ The project addresses the following research questions:
 
 Plescia, Carolina. 2022. &quot;Voters’ short-term responsiveness to coalition deals.&quot; <i>Party Politics</i> 28(5): 927-938.  
 
-[Article](https://doi.org/10.1177/13540688211029794){: .btn--research} [Supplemental Information](https://journals.sagepub.com/doi/suppl/10.1177/13540688211029794/suppl_file/sj-pdf-1-ppq-10.1177_13540688211029794.pdf){: .btn--research}[Replication Files](https://data.aussda.at/dataset.xhtml?persistentId=doi:10.11587/EFDRNJ){: .btn--research}
+[Article](https://doi.org/10.1177/13540688211029794){: .btn--research} [Supplemental Information](https://journals.sagepub.com/doi/suppl/10.1177/13540688211029794/suppl_file/sj-pdf-1-ppq-10.1177_13540688211029794.pdf){: .btn--research} [Replication Files](https://data.aussda.at/dataset.xhtml?persistentId=doi:10.11587/EFDRNJ){: .btn--research}
 
 Plescia, Carolina, Alejandro Ecker, and Thomas M. Meyer. 2022. &quot;Do party supporters accept policy compromises in coalition governments?&quot; <i>European Journal of Political Research</i> 61(1): 214–229.  
 
-[Article](https://doi.org/10.1111/1475-6765.12450){: .btn--research} 
+[Article](https://doi.org/10.1111/1475-6765.12450){: .btn--research} [Replication Files](https://github.com/carolinaplescia/replication_material/tree/main/2022-08-EJPR){: .btn--research}
 
 ## Working papers
 
