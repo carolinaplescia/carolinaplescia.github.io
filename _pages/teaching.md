@@ -19,9 +19,11 @@ I am very happy to share syllabi and any other teaching material so feel free to
 
 - Political Psychology (MA course; Winter 2022)
 
-- Research Design and Causal Methods (PhD course; Winter 2022)
+- Research Design and Causal Methods (PhD course; Winter 2022; Winter 2023)
 
-- Research Methods for the Social Sciences (MA course; Spring 2014; Spring 2015; Spring 2016; Spring 2017; Spring 2018; Spring 2021; Spring 2022; Spring 2023)
+- Research Methods for the Social Sciences (MA course; Spring 2014; Spring 2015; Spring 2016; Spring 2017; Spring 2018; Spring 2021; Spring 2022; Spring 2023; Spring 2024)
+
+- Introduction to Political Science (MA course; Winter 2023; Spring 2024)
 
 - Bachelor Dissertation Seminar (BA course; Winter 2014; Winter 2015; Winter 2016; Winter 2017; Winter 2018; Winter 2022)
 
