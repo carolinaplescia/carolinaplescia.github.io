@@ -9,8 +9,8 @@ header:
 ---
 
 In October 2018 I started an Hertha Firnberg project founded by the Austrian Science Fund (FWF) on voters' reactions to coalition compromises. 
-In this project, I pursue two major goals.
-First, I aim to develop a comprehensive theoretical framework that, while taking into account the heterogeneity of voters and coalition agreements, examines both the specific and diffuse consequences that government compromises have on voters in European democracies. Second, I will empirically test my theoretical expectations using existing survey data and novel survey experiments. To this end, survey evidence is coupled with an original content analysis of coalition compromises that takes into account not only the policy and ideological orientation of coalition agreements but also the use of nonpartisan experts and transparency in negotiation deliberations that are likely to have important electoral ramifications.
+In this project, completed in August 2024, I pursued two major goals.
+First, to develop a comprehensive theoretical framework that, while taking into account the heterogeneity of voters and coalition agreements, examines both the specific and diffuse consequences that government compromises have on voters in European democracies. Second, to empirically test theoretical expectations using existing survey data and novel survey experiments. To this end, survey evidence is coupled with an original content analysis of coalition compromises that takes into account not only the policy and ideological orientation of coalition agreements but also the use of nonpartisan experts and transparency in negotiation deliberations that are likely to have important electoral ramifications.
 
 The project addresses the following research questions:
 1. which coalition compromises are more likely to be accepted by voters?
@@ -19,6 +19,10 @@ The project addresses the following research questions:
 
 
 ## Published papers
+
+Ecker, Alejandro, Thomas M. Meyer, and Carolina Plescia. 2025.&quot;Do voters prefer logrolling to compromise in parliamentary democracies?.&quot; <i>Electoral Studies</i> 93(1): 102889.
+
+[Article](https://doi.org/10.1016/j.electstud.2024.102889){: .btn--research} [Supplemental Information](https://doi.org/10.1016/j.electstud.2024.102889){: .btn--research} [Pre-registration](https://osf.io/pzkf9){: .btn--research}
 
 Plescia, Carolina. 2022. &quot;Voters’ short-term responsiveness to coalition deals.&quot; <i>Party Politics</i> 28(5): 927-938.  
 
@@ -30,19 +34,11 @@ Plescia, Carolina, Alejandro Ecker, and Thomas M. Meyer. 2022. &quot;Do party su
 
 ## Working papers
 
-Ecker, Alejandro, Thomas M. Meyer, and Carolina Plescia. &quot;Do voters prefer logrolling to compromise in parliamentary democracies?&quot;
-
-[Pre-registration](https://osf.io/pzkf9){: .btn--research} 
-
-<i>Currently under review.<i>
-
->Parties run election campaigns by taking stances on various policy issues. Often however, implementing these policies requires deals with competitors who have different issue stances. Such deals can take two forms: policy compromises on individual issues or logrolls where each party gets to keep its position on one issue while conceding on another one. We study what types of deals voters are willing to accept in these negotiations based on a pre-registered survey experiment conducted after the 2021 Dutch general election. We find no evidence that respondents prefer logroll deals over policy compromises <i>per se<i>. Rather, voters prefer logroll deals to compromises only if the party they voted for is able to secure its position on an issue that also aligns with their voters’ preferences and is highly salient to them. Our results have wider implications for political representation and government formation processes.
-
 Ecker, Alejandro, Thomas M. Meyer, and Carolina Plescia. &quot;Who should govern? Perceived legitimacy of governments in multiparty systems&quot;
 
 [Pre-registration](https://osf.io/se6m8){: .btn--research} 
 
-<i>Paper presented at the American Political Science Association general meeting, Los Angeles, USA, August 2023 .<i>
+<i>Currently under review.<i>
 
 >Elections in multi-party systems often do not result in a clear mandate to govern for a single party. Rather, there are often several viable (coalition) alternatives, and it is unclear which of them voters see as a natural expression of the voters’ verdict on election day. In this paper, we ask how voters form perceptions of legitimate government alternatives when no single party commands a majority of votes or seats in the legislature. We test whether the inclusion of the largest party in the coalition, vote gains or losses compared to the last election, and the ideological cohesion of the government affect whether voters perceive a potential government alternative as legitimate to govern. Based on a conjoint survey experiment conducted in Germany (N=1,895), we find support for our expectations. Moreover, these criteria matter irrespective of whether voters like or dislike the policy platform of the government. Our findings have wider implications for government formation processes and the political representation of voters in increasingly complex and fragmented party systems.
 

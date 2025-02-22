@@ -8,8 +8,7 @@ header:
   og_image: "research/satisfaction.png"
 ---
 
-In this set of projects, I leverage mostly originally collected data and survey experiments to
-explore voters' views and satisfaction with both election outcomes and the election rules that shape these outcomes.
+In this set of projects, I leverage mostly originally collected data and survey experiments to explore voters' views and satisfaction with both election outcomes and the election rules that shape these outcomes. Below I list some examples of published and working papers. Please see my CV for a full list of published papers.
 
 ## Published papers
 
