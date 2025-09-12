@@ -1,5 +1,5 @@
 ---
-title: "Are people more satisfied with democracy when they feel they won the election? No"
+title: ""
 collection: publications
 permalink: /publication/2023-03-PolStudRev
 date: 2023-03-01

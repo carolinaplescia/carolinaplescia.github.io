@@ -1,5 +1,5 @@
 ---
-title: "What kind of electoral outcome do people think is good for democracy?"
+title: ""
 collection: publications
 permalink: /publication/2023-04-PolStud
 date: 2023-04-01

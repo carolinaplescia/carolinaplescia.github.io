@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-The following list includes peer-reviewed articles only. For a complete list of publications including books, book chapters, and research data, please refer to my CV. Feel free to contact me with any questions or to request access to replication materials when not already provided.
+The following list includes peer-reviewed articles and books only. For a complete list of publications including book chapters, and research data, please refer to my CV. Feel free to contact me with any questions or to request access to replication materials when not already provided.
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
