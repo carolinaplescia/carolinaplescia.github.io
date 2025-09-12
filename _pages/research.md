@@ -35,7 +35,7 @@ Blais, André, Damien Bol, and Carolina Plescia. &quot;Are Supporters of Democra
 
 >Regime legitimacy depends on citizens accepting unfavorable election results, with theories suggesting that pro-democratic individuals are more accepting of electoral losses. However, using data from a representative sample of Germans responding to hypothetical electoral outcomes, we find the opposite: stronger democratic convictions correlate with less electoral consent, particularly when partisan preferences are involved. This negative relationship persists even beyond reactions to the far-right AfD party, challenging assumptions about the link between democratic support and losers' consent.
 
-Faulí Molas, Clara, Carolina Plescia, Diego Garzia, and Frederico Ferreira Da Silva. &quot;Outgroup Vote Derogation: How People Make Sense of Outgroup Voting Behavior.&quot;
+Faulí Molas, Clara, Carolina Plescia, Diego Garzia, and Frederico Ferreira Da Silva. &quot;What does negative voting mean?&quot;
 
 >This study examines the nature of negative voting by investigating whether it is driven primarily by expressive or instrumental considerations. The analysis uses as a case study the 2024 European Parliament elections conducted simultaneously across the EU. It uses originally collected post-election survey data from seven countries (Austria, Belgium, Germany, Hungary, Italy, the Netherlands, and Poland) and a new survey instrument. The results show that negative voting has a low prevalence and contains both instrumental and expressive components, but it is generally more instrumental than expressive compared to positive voting. 
 
