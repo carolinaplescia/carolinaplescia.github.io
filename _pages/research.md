@@ -7,59 +7,68 @@ header:
   og_image: "research/ecdf.png"
 ---
 
-### ERC DeVOTE
+### ON-GOING PROJECTS
 
-In July 2020 I have been awarded an ERC StG grant to examine the meanings of ‘voting’ for ordinary citizens, their causes and consequences. The project started in January 2021 and will last 5 years.
+[DeVOTE](ttps://www.votemeanings.eu) ERC StG grant project (2021-ongoing): the aim is to examine the meanings of ‘voting’ for ordinary citizens, their causes and consequences in both established democracies and electoral autocracies. The project started in January 2021 and will last 5 years. The central aims of DeVOTE are to (1) understand what ‘voting’ means for ordinary citizens, (2) examine the variation of ‘voting’ meanings across individuals and across countries, (3) study how elections create and modify these ‘voting’ meanings and (4) investigate the consequences of ‘voting’ meanings for citizens’ preferences, attitudes and their political behaviours.
+Visit the [project website](https://www.votemeanings.eu) for updated information, all related activities and to check how can you be involved in the project! 
 
-The central aims of DeVOTE are:
+[WWTF Digital Humanism](https://www.wwtf.at) grant project (2024-ongoing): the aim is to understand citizen preferences for democratic innovation, in particular within the context of participatory budgeting algorithms (together with [Jan Maly](https://janmaly.de)).
 
-1. to understand what ‘voting’ means for ordinary citizens;
-2. to examine the variation of ‘voting’ meanings across individuals and across countries;
-3. to study how elections create and modify these ‘voting’ meanings;
-4. to investigate the consequences of ‘voting’ meanings for citizens’ preferences, attitudes and their political behaviours;
-5. to devise an ‘observatory’ for systematic data collection on the meanings of voting on Election Day that can favours the scientific interpretation of election outcomes.
+### COMPLETED PROJECTS
 
-Besides me, a fantastic team of two postdocs, two PhDs and a research admin are involved in the project.
-Visit the [project website](https://www.votemeanings.eu) for updated information, all related activities 
-and to check how can you be involved in the project! 
+[FWF Austrian Science Fund](https://www.fwf.ac.at/en/) Hertha Firnberg project (completed in 2023): studied how citizens respond to the compromises parties need to make to form governments and pass legislation in parliaments. 
 
-### Book
-
-Plescia, Carolina. 2025. &quot;The Meanings of Voting for Citizens.A Scientific Challenge, a Portrait, and Implications.&quot; <i>Oxford University Press</i> In Press.  
-
-[Book](https://global.oup.com/academic/product/the-meaning-of-voting-for-citizens-9780198946304?cc=at&lang=en&){: .btn--research}
-
-### Published papers (selection, see project website for full list)
-
-Abdala, Maria Belen, Carolina Plescia, Anna Lia Brunetti, and M. Ming Boyer. 2025. &quot;Trust in Government or in Technology? What Really Drives Internet Voting.&quot; <i>Political Research Quarterly</i> Online first.  
-
-[Article](https://doi.org/10.1177/10659129251321424){: .btn--research} [Supplemental Information](https://journals.sagepub.com/doi/10.1177/10659129251321424#supplementary-materials){: .btn--research} [Pre-registration](https://osf.io/4avtz?view_only=713c4fcbc7474c77a6fc45a85dc94c28){: .btn--research}
-
-### Working papers (selection, see project website for full list)
-
-Boyer, M. Ming, Cal Le Gall, and Carolina Plescia. &quot;Negative Campaigns, Negative Votes? The Effects of Negative and Dirty Campaigns on Citizen Meanings of Voting.&quot;
-
-[Working Paper](https://staatswissenschaft.univie.ac.at/fileadmin/user_upload/i_staatswissenschaft/Boyer_Negative_Campaigns_Negative_Votes_ECPR.pdf){: .btn--research} [Pre-registration Hungary](https://osf.io/54ry8/?view_only=b005c23986064cba8f8fcdef52bcc03b){: .btn--research} [Pre-registration USA](https://osf.io/xmn8w/?view_only=5b804c66875f458887b843598863ac63){: .btn--research}
-
-<i>Paper won the 2022 ECPR Political Communication Division Best Paper Award.<i>
-<i>Currently under review.<i>
-
->While there is considerable evidence on the effects of negative campaigns on mobilization and support for democracy, such research has often overlooked effects on how citizens perceive the electoral process itself. Closing this gap may account for mixed results in the existing literature. In this paper, we explore the relationship between different types of campaigning (ie, positive, negative and “dirty”) and citizen meanings of voting, which we believe is paramount to account for those mixed findings. Cross-sectional evidence suggests predictable effects of ingroup and outgroup campaign perceptions on whether citizens vote for one candidate or against another, or find voting meaningless altogether. A survey experiment, however, finds no effects of campaigns on meanings of voting, but rather a partisan bias in campaign perceptions. Explanations for this disparity, as well as consequences for democracy are discussed.
+[RECONNECT](https://reconnect-europe.eu/project-info/) H2020 project (completed in 2022): [WP9](https://reconnect-europe.eu/project-info/work-packages/work-package-9-perceptions/) studied citizen perceptions of democracy and rule of law in the EU, examining whether elite discourse resonates at the citizen level and how citizens react to EU reform scenarios. The work package mapped country-level and individual-level differences in attitudes toward EU reform options. It aimed to understand citizens' ideal vision of the EU and identify factors explaining their preferences for institutional changes.
 
 
-Plescia, Carolina, Ming M. Boyer, and Belén María Abdala. &quot;Vital Victories and Disastrous Defeats: Outgroup Vote Delegitimization, Affective Polarization and Acceptance of Election Results.&quot;
+### PAPERS CURRENTLY UNDER REVIEW
+
+Plescia, Carolina, Ming M. Boyer, and Belén María Abdala. &quot;Outgroup Vote Derogation: How People Make Sense of Outgroup Voting Behavior.&quot;
 
 [Pre-registration](https://osf.io/puac8/){: .btn--research} 
 
-<i>Paper presented at the 2023 Midwest Political Science Association (MPSA) meeting, Chicago (USA), at the 2023 European Political Science Association (EPSA) meeting, Glasgow (UK) and at the 2023 European Consortium for Political Research (ECPR), Prague (Czech Republic).<i>
-<i>Currently under review.<i>
+>Partisans live in different areas, consume different sources of information, and often disagree on the very facts that they base their political opinions on. As a result, they are likely to misunderstand the political choices of opposing party supporters, including their votes. This paper introduces “outgroup vote derogation” to describe how partisans make sense of the voting behavior of opposing party supporters, and tests it in Brazil, Italy, and the USA, finding that it correlates with affective polarization and affects citizens’ satisfaction and acceptance of election outcomes, potentially threatening democratic stability.
 
->Affective polarization – namely hostility towards outgroup party supporters – appears to be on the rise in many countries. This phenomenon has attracted increasing scholarly attention due to its potentially pernicious consequences. Research into the democratic consequences is, however, scarce. This study looks at a novel manifestation of affective polarization, namely the delegitimization of the outgroup vote, its correlation with affective polarization and its consequences for satisfaction with and acceptance of election results. Our main argument is that since democratic norms prescribe accepting an election’s loss, in order to rationalize not accepting election results, affectively polarized citizens are likely to delegitimize the political opponents’ vote choice. We investigate two research questions: a. How does affective polarization relate to outgroup vote delegitimization? b. Is there a link between outgroup vote delegitimization and satisfaction with and refusing to accept of the electoral loss? We test our preregistered hypotheses using survey data from three different contexts: the 2022 elections held in the USA (N = 4000), Brazil (N = 2000) and Italy (N = 1500). The findings show that affective polarization relates to higher outgroup vote delegitimization and that the latter decreases satisfaction with and acceptance of the election result in case of a loss while increasing satisfaction with and acceptance of the election result in case of a win. The results also show that outgroup vote delegitimization is a related but distinct phenomenon to affective polarization. The results inform scholars about the extent to which affective polarization is connected to citizens’ views on the electoral process, and the extent to which they view outgroup party supporters as corrupting the electoral process.
- 
-Boyer, Ming M., Anna-Lia Brunetti and Carolina Plescia. &quot;In It to Win It? The Role of Citizen Meanings of Voting in the Winner-Loser Gap of Diffuse Political Support.&quot;
+Blais, André, Damien Bol, and Carolina Plescia. &quot;Are Supporters of Democracy Good Losers?&quot;
 
-[Pre-registration](www.doi.org/10.17605/OSF.IO/8SWJB){: .btn--research}
+[Pre-registration](https://osf.io/j26wp){: .btn--research} 
 
-<i>Paper presented at the 2022 American Political Science Association (APSA) meeting, Montreal, Canada.<i>
+>Regime legitimacy depends on citizens accepting unfavorable election results, with theories suggesting that pro-democratic individuals are more accepting of electoral losses. However, using data from a representative sample of Germans responding to hypothetical electoral outcomes, we find the opposite: stronger democratic convictions correlate with less electoral consent, particularly when partisan preferences are involved. This negative relationship persists even beyond reactions to the far-right AfD party, challenging assumptions about the link between democratic support and losers' consent.
 
->A plethora of research has found a gap in diffuse political support between winners and losers of elections, as well as the institutional and contextual factors that affect this gap. However, individual differences in this gap have largely been overlooked. In this paper, we explore whether the way people see voting impact the winner-loser gap. Using a three-wave panel study during the 2022 Hungarian elections, the preliminary findings are mixed. They suggest that for citizens that see voting as an instrumental act – i.e., affecting the outcome of the election – the winner-loser gap is amplified, while it is reduced for those that vote because it is ethical to do so. Voting to express oneself is not related to diffuse political support, and voting to express allegiance to democracy led to more support among both winners and losers. These findings help to clarify the factors that lead to the winner-loser gap in political support in the first place, and inform government bodies that attempt to reduce it and improve diffuse political support.
+Faulí Molas, Clara, Carolina Plescia, Diego Garzia, and Frederico Ferreira Da Silva. &quot;Outgroup Vote Derogation: How People Make Sense of Outgroup Voting Behavior.&quot;
+
+>This study examines the nature of negative voting by investigating whether it is driven primarily by expressive or instrumental considerations. The analysis uses as a case study the 2024 European Parliament elections conducted simultaneously across the EU. It uses originally collected post-election survey data from seven countries (Austria, Belgium, Germany, Hungary, Italy, the Netherlands, and Poland) and a new survey instrument. The results show that negative voting has a low prevalence and contains both instrumental and expressive components, but it is generally more instrumental than expressive compared to positive voting. 
+
+Abdala, M. Belén, and Carolina Plescia . &quot;Why do people run for office? Exploring the political motivations of first-time candidates.&quot;
+
+>Descriptively, office holders tend to represent a select few, often missing the broader diversity of the population. This raises a crucial question in the study of political representation: why do (some) individuals decide to run for office? While prior research has extensively examined political ambition and candidate emergence, most studies have focused on those already in the race or relied on hypothetical scenarios using convenient samples. To advance the discussion on what motivates people to run for office, we examine the political motivations of first-time candidates in the context of a real election campaign.
+
+Abdala, M. Belén, Carolina Plescia, and Markus Wagner. &quot;Comparing Perceptions of Election Integrity: Challenges and Solutions for Measurement Equivalence in Global Surveys.&quot;
+
+>Researchers measuring election integrity perceptions across countries face the challenge of ensuring measurement equivalence between different national contexts. Using data from 13 countries and applying measurement invariance tests, this study finds promising cross-national comparability despite persistent between-country variation. The remaining differences likely reflect meaningful contextual variation rather than methodological problems.
+
+
+
+### WORKING PAPERS
+
+Boyer, Ming M., and Carolina Plescia. &quot;Against Voting: A Mixed-Methods Analysis of Anti-Voting Meanings.&quot;
+
+<i>Paper presented at the 2025 European Political Science Association (EPSA) Annual Meeting, Madrid, Spain.<i>
+
+>While much research examines what drives people to vote, this paper focuses on what citizens dislike about voting by analyzing responses from 23,828 citizens across 12 diverse countries who answered "what does 'voting' mean to you?" Using a mixed-methods approach, the study manually coded 1,775 negative responses through grounded theory to create a novel classification of anti-voting meanings, examining both existing interpretations (political efficacy, disillusionment) and new citizen-generated perspectives. The classification is then quantitatively analyzed against institutional and individual factors including societal position, country's democratic level, and political preferences.
+
+Abdala, M. Belén, Jennifer Oser, Carolina Plescia, and Aya Shoshan. &quot;Decoding the Vote: Mapping Key Theories and Debates in the Study of Voting Behavior.&quot;
+
+<i>Paper presented at the 2025 Midwest Political Science Association (MPSA) Annual Meeting, Chicago, USA.<i>
+
+>Despite voting being central to political science and increasingly important due to declining turnout, the field lacks coherent understanding of what "voting" means, with competing civic duty, instrumental, and expressive definitions creating fragmented knowledge. This paper uses literature mapping tools from natural sciences to generate citation maps of academic research on voting, uncovering key themes, competing frameworks, and research gaps across different research streams. The methodology demonstrates the value of literature mapping for synthesizing complex theoretical landscapes in political science and provides suggestions for future research directions.
+
+
+Ecker, Alejandro, Thomas, M. Meyer, and Carolina Plescia. &quot;Does the bargaining clock tick? How time and rewards influence voter attitudes in coalition negotiations.&quot;
+
+[Pre-registration](https://osf.io/pzkf9){: .btn--research} 
+
+Wegschaider, Klaudia and Carolina Plescia. &quot;Sharing the vote.&quot;
+
+<i>Paper presented at the Yale ISPS weekly internal seminar series.<i>
+
