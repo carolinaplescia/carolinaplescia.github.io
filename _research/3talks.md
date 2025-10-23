@@ -1,7 +1,7 @@
 ---
-title: "Accountability"
+title: "Events & Talks"
 layout: single-portfolio
-excerpt: "<img src='/images/research/accountability.png' alt=''>"
+excerpt: "<img src='/images/research/talk.jpg' alt=''>"
 collection: research
 order_number: 20
 header: 
