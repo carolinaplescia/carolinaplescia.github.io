@@ -9,8 +9,8 @@ header:
 
 ### ON-GOING PROJECTS
 
-[DeVOTE](https://www.votemeanings.eu) ERC StG grant project (2021-ongoing): the aim is to examine the meanings of ‘voting’ for ordinary citizens, their causes and consequences in both established democracies and electoral autocracies. The project started in January 2021 and will last 5 years. The central aims of DeVOTE are to (1) understand what ‘voting’ means for ordinary citizens, (2) examine the variation of ‘voting’ meanings across individuals and across countries, (3) study how elections create and modify these ‘voting’ meanings and (4) investigate the consequences of ‘voting’ meanings for citizens’ preferences, attitudes and their political behaviours.
-Visit the [project website](https://www.votemeanings.eu) for updated information, all related activities and to check how can you be involved in the project! 
+[DeVOTE](https://www.carolinaplescia.com/devote/) ERC StG grant project (2021-ongoing): the aim is to examine the meanings of ‘voting’ for ordinary citizens, their causes and consequences in both established democracies and electoral autocracies. The project started in January 2021 and will last 5 years. The central aims of DeVOTE are to (1) understand what ‘voting’ means for ordinary citizens, (2) examine the variation of ‘voting’ meanings across individuals and across countries, (3) study how elections create and modify these ‘voting’ meanings and (4) investigate the consequences of ‘voting’ meanings for citizens’ preferences, attitudes and their political behaviours.
+Visit the [project page](https://www.carolinaplescia.com/devote/) for updated information, all related activities and to check how can you be involved in the project! 
 
 [WWTF Digital Humanism](https://www.wwtf.at) grant project (2024-ongoing): the aim is to understand citizen preferences for democratic innovation, in particular within the context of participatory budgeting algorithms (together with [Jan Maly](https://janmaly.de)).
 
