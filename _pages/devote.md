@@ -13,16 +13,17 @@ The project develops and applies a new interdisciplinary theoretical and methodo
 
 ‘Meaning’, in this project, refers to both the importance of voting for citizens as well as what is meant by voting for citizens, which may encompass citizen definitions or understandings of voting and/or the motivations they have for voting or not.
 
-The overall objective of the project is to gather citizens' views via a novel methodological approach, based on the citizen-science website and inductive reasoning, combined with panel data, vignette experiments and topic modelling.
+The overall objective of the project is to gather citizens' views via a novel methodological approach, based on the citizen-science website and inductive reasoning, combined with panel data, vignette experiments and topic modelling. A short introductory video is available via <a href="https://www.youtube.com/watch?v=9GZn_rZgK6E">this link</a>.
 
 Research questions:
-(1) Is there a meaning of ‘voting’ for ordinary citizens? If so, what is the significance of voting for ordinary citizens? And how should we study it? (Work Package 1)
 
-(2) Does the meaning of voting for ordinary citizens vary in systematic ways? What are the individual- and country-level correlates for the meanings of voting? (Work Package 2)
+(1) Is there a meaning of ‘voting’ for ordinary citizens? If so, what is the significance of voting for ordinary citizens? And how should we study it? (<i>Work Package 1</i>)
 
-(3) Does the meaning of voting for ordinary citizens change during election times? For whom, under what conditions and which meanings are activated and/or modified by election campaigns? (Work Package 3)
+(2) Does the meaning of voting for ordinary citizens vary in systematic ways? What are the individual- and country-level correlates for the meanings of voting? (<i>Work Package 2</i>)
 
-(4) What are the attitudinal and behavioural consequences of citizen meanings? Do citizen meanings have consequences for citizen preferences, attitudes and political behaviours? (Work Package 4)
+(3) Does the meaning of voting for ordinary citizens change during election times? For whom, under what conditions and which meanings are activated and/or modified by election campaigns? (<i>Work Package 3</i>)
+
+(4) What are the attitudinal and behavioural consequences of citizen meanings? Do citizen meanings have consequences for citizen preferences, attitudes and political behaviours? (<i>Work Package 4</i>)
 <nbsp>
 
 {% include base_path %}
