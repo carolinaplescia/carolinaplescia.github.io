@@ -15,7 +15,7 @@ My research focuses on the conditions under which citizens hold elected official
 
 I am currently leading an ERC Starting Grant called [DeVOTE](https://www.carolinaplescia.com/devote/) that aims to develop and apply a new interdisciplinary theoretical and methodological approach to study what ‘voting’ means for ordinary citizens in both established democracies and electoral autocracies. I am also co-leading (with [Jan Maly](https://janmaly.de)) a project funded by the [WWTF](https://www.wwtf.at) on citizen-centered democratic innovation, which aim to understand citizen preferences for participatory budgeting algorithms.
 
-My work has been published in journals such as Comparative Political Studies, European Journal of Political Research, Political Science Research and Methods, The International Journal of Press/Politics, West European Politics and many more. 
+My work has been published in journals such as Comparative Political Studies, Political Psychology, European Journal of Political Research, Political Science Research and Methods, The International Journal of Press/Politics, and many more. 
 
 For my work, I received several awards including the [ECPR Jean Blondel PhD prize](https://ecpr.eu/Prizes/PrizeWinners.aspx?PrizeID=4) in 2014, [the Gordon Smith and Vincent Wright Memorial Prize](https://www.tandfonline.com/doi/full/10.1080/01402382.2018.1427034) in 2017 and an honorable mention for the [2022 GESIS Klingemann Prize](https://cses.org/2022/11/10/klingemann-prize-honorable-mention/).
 
