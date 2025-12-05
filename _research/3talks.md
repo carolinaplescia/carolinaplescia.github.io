@@ -12,7 +12,7 @@ header:
 
 <table>
   <tr>
-    <td><img src="/images/research/devote/talks/ipp.pdf" height="100px" alt="IPP-CSIC event"></td>
+    <td><img src="/images/research/devote/talks/csic.png" height="100px" alt="IPP-CSIC event"></td>
     <td width="600px"> 
       <h2>Spanish Institute of Public Goods and Policies (IPP-CSIC)</h2>
       <h3>October 22, 2025</h3>

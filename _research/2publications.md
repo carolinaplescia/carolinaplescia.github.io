@@ -19,8 +19,9 @@ Plescia, Carolina (2025). &quot;The Meanings of Voting for Citizens.&quot; <i>Ox
 
 ## Published papers
 
-Boyer, Ming M., Carolina Plescia, and André Blais. &quot; Voting Against or Against Voting?&quot; <i>European Journal of Political Research</i>. <i>Forthcoming<i>.
+Boyer, Ming M., Carolina Plescia, and André Blais. &quot; Voting Against or Against Voting?&quot; <i>European Journal of Political Research</i>. <i>Early View<i>.
 
+[Article](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/voting-against-or-against-voting/DC9E8BD7FFA2DE93E957FDFB4E85CC1E){: .btn--research} [Supplemental Material](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/voting-against-or-against-voting/DC9E8BD7FFA2DE93E957FDFB4E85CC1E#supplementary-materials){: .btn--research}
 
 Boyer, Ming M., Cal Le Gall, and Carolina Plescia (2025). &quot;Negative Campaigns, Negative Votes? Meanings of Voting and Political Campaigns.&quot; <i>The International Journal of Press/Politics</i>. <i>Early View<i>.
 
