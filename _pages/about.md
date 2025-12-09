@@ -19,7 +19,7 @@ My work has been published in journals such as Comparative Political Studies, Po
 
 For my work, I received several awards including the [ECPR Jean Blondel PhD prize](https://ecpr.eu/Prizes/PrizeWinners.aspx?PrizeID=4) in 2014, [the Gordon Smith and Vincent Wright Memorial Prize](https://www.tandfonline.com/doi/full/10.1080/01402382.2018.1427034) in 2017 and an honorable mention for the [2022 GESIS Klingemann Prize](https://cses.org/2022/11/10/klingemann-prize-honorable-mention/).
 
-I am part of the [Austrian National Election Study](https://autnes.at), the [Austrian Corona Panel Project (ACPP)](https://viecer.univie.ac.at/coronapanel/) and the [Austrian Academy of Sciences](https://www.oeaw.ac.at/en/m/plescia-carolina). 
+I am part of the [Commission Democracy in Digital Societies (DEMGES)](https://www.oeaw.ac.at/en/demges/home), the [Austrian National Election Study](https://autnes.at), the [Austrian Corona Panel Project (ACPP)](https://viecer.univie.ac.at/coronapanel/) and the [Austrian Academy of Sciences](https://www.oeaw.ac.at/en/m/plescia-carolina). 
 
 I earned my Ph.D in Political Science from Trinity College Dublin, Ireland in November 2013 under the supervision of Professors Michael Marsh and Kenneth Benoit. 
 
