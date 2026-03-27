@@ -29,12 +29,6 @@ Plescia, Carolina, Ming M. Boyer, and Belén María Abdala. &quot;Outgroup Vote 
 
 >Partisans live in different areas, consume different sources of information, and often disagree on the very facts that they base their political opinions on. As a result, they are likely to misunderstand the political choices of opposing party supporters, including their votes. This paper introduces “outgroup vote derogation” to describe how partisans make sense of the voting behavior of opposing party supporters, and tests it in Brazil, Italy, and the USA, finding that it correlates with affective polarization and affects citizens’ satisfaction and acceptance of election outcomes, potentially threatening democratic stability.
 
-Blais, André, Damien Bol, and Carolina Plescia. &quot;Are Supporters of Democracy Good Losers?&quot;
-
-[Pre-registration](https://osf.io/j26wp){: .btn--research} 
-
->Regime legitimacy depends on citizens accepting unfavorable election results, with theories suggesting that pro-democratic individuals are more accepting of electoral losses. However, using data from a representative sample of Germans responding to hypothetical electoral outcomes, we find the opposite: stronger democratic convictions correlate with less electoral consent, particularly when partisan preferences are involved. This negative relationship persists even beyond reactions to the far-right AfD party, challenging assumptions about the link between democratic support and losers' consent.
-
 Faulí Molas, Clara, Carolina Plescia, Diego Garzia, and Frederico Ferreira Da Silva. &quot;What does negative voting mean?&quot;
 
 >This study examines the nature of negative voting by investigating whether it is driven primarily by expressive or instrumental considerations. The analysis uses as a case study the 2024 European Parliament elections conducted simultaneously across the EU. It uses originally collected post-election survey data from seven countries (Austria, Belgium, Germany, Hungary, Italy, the Netherlands, and Poland) and a new survey instrument. The results show that negative voting has a low prevalence and contains both instrumental and expressive components, but it is generally more instrumental than expressive compared to positive voting. 
@@ -42,11 +36,6 @@ Faulí Molas, Clara, Carolina Plescia, Diego Garzia, and Frederico Ferreira Da S
 Abdala, M. Belén, and Carolina Plescia . &quot;Why do people run for office? Exploring the political motivations of first-time candidates.&quot;
 
 >Descriptively, office holders tend to represent a select few, often missing the broader diversity of the population. This raises a crucial question in the study of political representation: why do (some) individuals decide to run for office? While prior research has extensively examined political ambition and candidate emergence, most studies have focused on those already in the race or relied on hypothetical scenarios using convenient samples. To advance the discussion on what motivates people to run for office, we examine the political motivations of first-time candidates in the context of a real election campaign.
-
-Abdala, M. Belén, Carolina Plescia, and Markus Wagner. &quot;Comparing Perceptions of Election Integrity: Challenges and Solutions for Measurement Equivalence in Global Surveys.&quot;
-
->Researchers measuring election integrity perceptions across countries face the challenge of ensuring measurement equivalence between different national contexts. Using data from 13 countries and applying measurement invariance tests, this study finds promising cross-national comparability despite persistent between-country variation. The remaining differences likely reflect meaningful contextual variation rather than methodological problems.
-
 
 
 ### WORKING PAPERS

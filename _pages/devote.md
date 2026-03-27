@@ -7,7 +7,7 @@ header:
   og_image: "devote/ecdf.png"
 ---
 
-DeVOTE is a research project funded by the European Research Council (ERC) Starting Grant from January 2021 to August 2026. The project is hosted by the [Department of Government](https://staatswissenschaft.univie.ac.at/en/) at the University of Vienna.
+DeVOTE is a research project funded by the European Research Council (ERC) Starting Grant from January 2021 to December 2026. The project is hosted by the [Department of Government](https://staatswissenschaft.univie.ac.at/en/) at the University of Vienna.
 
 The project develops and applies a new interdisciplinary theoretical and methodological approach to study what ‘voting’ means for ordinary citizens. 
 
