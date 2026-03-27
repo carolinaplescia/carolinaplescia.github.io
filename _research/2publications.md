@@ -67,6 +67,11 @@ Brunetti, Anna Lia, and Ming M. Boyer. &quot;In It to Win It? The Role of Citize
 
 Abdala, M. Belén, and Anna Lia Brunetti. &quot;Election integrity, electoral participation and the meanings of voting&quot;.
 
+## Policy Briefs
+
+**March 2026**. Abdala, Maria Belén, Carolina Plescia, Ming M. Boyer, and Anna Lia Brunetti. &quot;Voters’ Verdict on i‑Voting:  It’s About Trust, Especially in Technology&quot;
+[link to policy brief](/files/pdf/publications/DeVOTE_policy_brief_1.pdf){: .btn--research}
+
 
 ## Data
 
