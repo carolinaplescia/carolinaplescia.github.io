@@ -69,8 +69,11 @@ Abdala, M. Belén, and Anna Lia Brunetti. &quot;Election integrity, electoral pa
 
 ## Policy Briefs
 
+**April 2026**. Plescia, Carolina, and Cal Le Gall. &quot;Sticking to Eighteen: Status Quo and the Politics of Lowering the Voting Age&quot;
+[link to policy brief](/files/pdf/publications/DeVOTE_policy_brief_voting_age_FINAL.pdf){: .btn--research}
+
 **March 2026**. Abdala, Maria Belén, Carolina Plescia, Ming M. Boyer, and Anna Lia Brunetti. &quot;Voters’ Verdict on i‑Voting:  It’s About Trust, Especially in Technology&quot;
-[link to policy brief](/files/pdf/publications/DeVOTE_policy_brief_1.pdf){: .btn--research}
+[link to policy brief](/files/pdf/publications/DeVOTE_policy_brief_trust-in-government-or-in-technology_FINAL.pdf){: .btn--research}
 
 
 ## Data
