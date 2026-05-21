@@ -69,6 +69,9 @@ Abdala, M. Belén, and Anna Lia Brunetti. &quot;Election integrity, electoral pa
 
 ## Policy Briefs
 
+**May 2026**. Plescia, Carolina, and André Blais. &quot;How Electoral Reforms Can Shape Turnout and Democratic Engagement&quot;
+[link to policy brief](/files/pdf/publications/DeVOTE_policy_brief_electoral_reform_FINAL.pdf){: .btn--research}
+
 **April 2026**. Plescia, Carolina, and Cal Le Gall. &quot;Sticking to Eighteen: Status Quo and the Politics of Lowering the Voting Age&quot;
 [link to policy brief](/files/pdf/publications/DeVOTE_policy_brief_voting_age_FINAL.pdf){: .btn--research}
 
