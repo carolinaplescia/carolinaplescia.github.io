@@ -1,5 +1,5 @@
 ---
-title: "2026"
+title: ""
 collection: publications
 permalink: /publication/2026-05-PS_special
 date: 2026-04-01

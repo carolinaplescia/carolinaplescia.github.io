@@ -19,6 +19,8 @@ Plescia, Carolina (2025). &quot;The Meanings of Voting for Citizens.&quot; <i>Ox
 
 ## Published papers
 
+Abdala, M. Belén, Carolina Plescia and Markus Wagner. &quot;Comparing Perceptions of Election Integrity: Challenges and Solutions for Measurement Equivalence in Global Surveys&quot; <i>PS: Political Science & Politics</i>. <i>Forthcoming<i>.
+
 Boyer, Ming M., Carolina Plescia, and André Blais. &quot; Voting Against or Against Voting?&quot; <i>European Journal of Political Research</i>. <i>Early View<i>.
 
 [Article](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/voting-against-or-against-voting/DC9E8BD7FFA2DE93E957FDFB4E85CC1E){: .btn--research} [Supplemental Material](https://www.cambridge.org/core/journals/european-journal-of-political-research/article/voting-against-or-against-voting/DC9E8BD7FFA2DE93E957FDFB4E85CC1E#supplementary-materials){: .btn--research}
@@ -40,18 +42,15 @@ Abdala, Maria Belén (2024). &quot;In-person or convenience voting? The role of 
 
 ## Papers under review
 
+Abdala, M. Belén and Carolina Plescia. &quot;Unlocking the secret garden: Exploring party picks for candidates&quot; R&R
+
+Faulí Molas, Clara, Carolina Plescia, Diego Garzia, and Frederico Ferreira Da Silva. &quot;What does negative voting mean?&quot; R&R
+
 Abdala, M. Belén. &quot;Voting as if your rights depend on it: The role of strife in the political motivations of marginalized voters&quot;
 
 Plescia, Carolina, Ming M. Boyer and M. Belén Abdala. &quot;Outgroup Vote Derogation: Making Sense of Outgroup Voting Behaviour&quot;
 
-Faulí Molas, Clara, Carolina Plescia, Diego Garzia, and Frederico Ferreira Da Silva. &quot;What does negative voting mean?&quot;
-
 Abdala, M. Belén and Carolina Plescia. &quot;Why do people run for office? Exploring the political motivations of first-time candidates&quot;
-
-Abdala, M. Belén and Carolina Plescia. &quot;Unlocking the secret garden: Exploring party picks for candidates&quot;
-
-Abdala, M. Belén, Carolina Plescia and Markus Wagner. &quot;Comparing Perceptions of Election Integrity: Challenges and Solutions for Measurement Equivalence in Global Surveys&quot;
-
 
 ## Working papers
 

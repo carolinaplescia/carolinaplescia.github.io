@@ -12,6 +12,16 @@ header:
 
 <table>
   <tr>
+    <td><img src="/images/research/devote/talks/rome.jpeg" height="100px" alt="Rome"></td>
+    <td width="600px"> 
+      <h2>Chamber of Deputies, Italian Parliament</h2>
+      <h3>November 6, 2026</h3>
+      <p>Keynote speech by Carolina Plescia at the Chamber of Deputies, Italian Parliament: "Voting in Italy: between a right and a duty".</p>
+      <p></p>
+    </td>
+  </tr>
+  
+  <tr>
     <td><img src="/images/research/devote/talks/csic.png" height="100px" alt="IPP-CSIC event"></td>
     <td width="600px"> 
       <h2>Spanish Institute of Public Goods and Policies (IPP-CSIC)</h2>
