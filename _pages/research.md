@@ -57,7 +57,5 @@ Ecker, Alejandro, Thomas, M. Meyer, and Carolina Plescia. &quot;Does the bargain
 
 [Pre-registration](https://osf.io/pzkf9){: .btn--research} 
 
-Wegschaider, Klaudia and Carolina Plescia. &quot;Sharing the vote.&quot;
 
-<i>Paper presented at the Yale ISPS weekly internal seminar series.<i>
 
