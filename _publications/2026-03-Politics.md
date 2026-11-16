@@ -1,8 +1,8 @@
 ---
-title: "2025"
+title: ""
 collection: publications
 permalink: /publication/2026-03-Politics
-date: 2026-02-01
+date: 2026-03-01
 venue: 'Politics and Governance'
 paperurl: '/files/pdf/publications/2026-03-Politics.pdf'
 link: 'https://www.cambridge.org/core/journals/european-journal-of-political-research/article/voting-against-or-against-voting/DC9E8BD7FFA2DE93E957FDFB4E85CC1E'
